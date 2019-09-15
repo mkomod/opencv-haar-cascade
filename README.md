@@ -1,6 +1,8 @@
 
 Haar Cascades for OpenCV
 
+This repository brings together Haar Cascades from around the web. Sources and Licensing are added where available.
+
 ## Contents
 
 ### Face
